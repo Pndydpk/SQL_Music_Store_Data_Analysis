@@ -21,6 +21,8 @@ To analyze the music playlist database. Help the store understand its business g
 **Database and Tools**
 Postgre SQL and PgAdmin4
 
+**Learnings**
+Common table expressions, Table Join, and Recursive functions
 
 **Music Store Databases Schema**
 
